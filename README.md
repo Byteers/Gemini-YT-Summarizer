@@ -100,13 +100,13 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 2. **Create a Virtual Environment**:
 
-   On Windows:
+   ###On Windows:
    
    python -m venv venv
    venv\Scripts\activate
   
 
-   On macOS/Linux:
+   ##On macOS/Linux:
 
    python3 -m venv venv
    source venv/bin/activate
